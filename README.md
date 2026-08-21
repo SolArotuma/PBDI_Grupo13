@@ -18,3 +18,4 @@
 3. 
 ### Fuentes:
 https://patents.google.com/patent/ES2741248T3/es?q=(goteo+intravenoso)&oq=goteo+intravenoso
+A. Coito et al., “Advances in ocular motor and pupil biomarkers for neurological disorders,” Brain Communications, vol. 8, no. 2, p. fcag102, Jan. 2026, doi: 10.1093/braincomms/fcag102.
