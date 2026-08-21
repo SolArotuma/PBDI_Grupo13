@@ -1,6 +1,6 @@
 # Fundamentos de Biodiseño 1 - Grupo 13
 
-## Integrantes:
+## Tabla de roles:
 | Integrantes | Roles | Contacto |
 |:-------:|---------|:---------:|
 | Sol Fatima Arotuma Pedroza |  | sol.arotuma@upch.pe |
@@ -12,7 +12,9 @@
 
 ## Foto grupal:
 
-## Problematica
-
+## Problematicas:
+1.
+2.
+3. 
 ### Fuentes:
 https://patents.google.com/patent/ES2741248T3/es?q=(goteo+intravenoso)&oq=goteo+intravenoso
