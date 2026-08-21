@@ -15,5 +15,5 @@
 
 ## Problematicas:
 1.  "Automatización del cambio de presión en el flujo del goteo intravenoso ante cambios repentinos."
-2.
+2. "Estimulación no invasiva del nervio vago como complemento para la recuperación motora posterior a un ACV isquémico"
 3. "Detección temprana y preevaluación de alteraciones neurológicas mediante pupilometría portátil y de bajo costo en comunidades rurales con acceso limitado a servicios especializados" [2] [3]
