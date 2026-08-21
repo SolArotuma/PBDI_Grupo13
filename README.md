@@ -18,7 +18,8 @@
 3. "Detección temprana y preevaluación de alteraciones neurológicas mediante pupilometría portátil y de bajo costo en comunidades rurales con acceso limitado a servicios especializados"
 
 ### Fuentes:
-https://patents.google.com/patent/ES2741248T3/es?q=(goteo+intravenoso)&oq=goteo+intravenoso
+
+S. R. Isaacson, W. F. Harding, R. L. Sonderegger, A. J. Mckinnon, M. Ivosevic, and B. D. A. Co, “ES2741248T3 - Sistemas y métodos de gestión de flujo intravenoso (IV)          - Google Patents,” Apr. 01, 2015. https://patents.google.com/patent/ES2741248T3/es?q=(goteo+intravenoso)&oq=goteo+intravenoso
 
 A. Coito et al., “Advances in ocular motor and pupil biomarkers for neurological disorders,” Brain Communications, vol. 8, no. 2, p. fcag102, Jan. 2026, doi: 10.1093/braincomms/fcag102.
 
