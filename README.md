@@ -1,4 +1,4 @@
-# Fundamentos de Biodiseño 1
+# Fundamentos de Biodiseño 1 - Grupo 13
 
 ## Integrantes:
 https://patents.google.com/patent/ES2741248T3/es?q=(goteo+intravenoso)&oq=goteo+intravenoso
