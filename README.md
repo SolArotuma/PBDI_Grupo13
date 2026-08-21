@@ -11,6 +11,7 @@
 | Nathalie Antonella Huiza Quispe |  | nathalie.huiza@upch.pe |
 
 ## Foto grupal:
+[![IMG-20260821-WA0016.jpg](https://i.postimg.cc/kg2j4ZKB/IMG-20260821-WA0016.jpg)](https://postimg.cc/G41PgXMC)
 
 ## Problematicas:
 1.  "Automatización del cambio de presión en el flujo del goteo intravenoso ante cambios repentinos."
