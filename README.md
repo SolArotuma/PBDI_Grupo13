@@ -15,7 +15,7 @@
 ## Problematicas:
 1.
 2.
-3. 
+3. Detección temprana y preevaluación de alteraciones neurológicas mediante pupilometría en zonas rurales de bajos recursos
 ### Fuentes:
 https://patents.google.com/patent/ES2741248T3/es?q=(goteo+intravenoso)&oq=goteo+intravenoso
 
