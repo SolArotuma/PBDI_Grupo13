@@ -13,6 +13,6 @@
 ## Foto grupal:
 
 ## Problematicas:
-1.
+1.  "Automatización del cambio de presión en el flujo del goteo intravenoso ante cambios repentinos."
 2.
 3. "Detección temprana y preevaluación de alteraciones neurológicas mediante pupilometría portátil y de bajo costo en comunidades rurales con acceso limitado a servicios especializados" [2] [3]
