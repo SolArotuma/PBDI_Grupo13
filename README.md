@@ -5,9 +5,9 @@
 |:-------:|---------|:---------:|
 | Sol Fatima Arotuma Pedroza | Hardware y diseño 3D | sol.arotuma@upch.pe |
 | Valeria Milagros Ccoa Banda |  | valeria.ccoa@upch.pe |
-| Ezael Sergio Condor Orihuela | Electrónica y Programación | sergio.condor@upch.pe |
+| Ezael Sergio Condor Orihuela | Electrónica | sergio.condor@upch.pe |
 | Sebastian Amadeus Espinoza Padilla | Diseño de Software | sebastian.espinoza@upch.pe |
-| Alexander Piero Huamanvilca Aranda | Electrónica y Programación | alexander.huamanvilca@upch.pe |
+| Alexander Piero Huamanvilca Aranda | Electrónica | alexander.huamanvilca@upch.pe |
 | Nathalie Antonella Huiza Quispe | Modelado 3D y prototipado | nathalie.huiza@upch.pe |
 
 ## Foto grupal:
