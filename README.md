@@ -3,12 +3,12 @@
 ## Tabla de roles:
 | Integrantes | Roles | Contacto |
 |:-------:|---------|:---------:|
-| Sol Fatima Arotuma Pedroza |  | sol.arotuma@upch.pe |
+| Sol Fatima Arotuma Pedroza | Hardware y diseño 3D | sol.arotuma@upch.pe |
 | Valeria Milagros Ccoa Banda |  | valeria.ccoa@upch.pe |
 | Ezael Sergio Condor Orihuela |  | sergio.condor@upch.pe |
-| Sebastian Amadeus Espinoza Padilla |  | sebastian.espinoza@upch.pe |
+| Sebastian Amadeus Espinoza Padilla | Diseño de Software | sebastian.espinoza@upch.pe |
 | Alexander Piero Huamanvilca Aranda |  | alexander.huamanvilca@upch.pe |
-| Nathalie Antonella Huiza Quispe |  | nathalie.huiza@upch.pe |
+| Nathalie Antonella Huiza Quispe | Modelado 3D y prototipado | nathalie.huiza@upch.pe |
 
 ## Foto grupal:
 [![IMG-20260821-WA0016.jpg](https://i.postimg.cc/kg2j4ZKB/IMG-20260821-WA0016.jpg)](https://postimg.cc/G41PgXMC)
