@@ -1,4 +1,3 @@
 # Caja negra:
 
-<img width="932" height="669" alt="Image" src="https://github.com/user-attachments/assets/f9ce9e4c-5d1a-4cc3-92da-4828360de211" />
-
+[![Whats-App-Image-2026-09-11-at-11-36-29-AM.jpg](https://i.postimg.cc/cLXHqwCn/Whats-App-Image-2026-09-11-at-11-36-29-AM.jpg)](https://postimg.cc/zyH5KLnz)
