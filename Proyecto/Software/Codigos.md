@@ -1,3 +1,51 @@
-# owo
+# Código SENSOR CUENTA GOTAS: Sensor Encoder Infrarrojo FC-03:
+
+const int pinDO = 2;
+const int pinAO = A0;
+
+volatile unsigned long interrupciones = 0;
+volatile unsigned long ultimoTiempoISR = 0;
+unsigned long conteoAnterior = 0;
+unsigned long tiempoPrevio = 0;
+
+void contar() {
+  unsigned long ahora = micros();
+  // Filtro anti-rebote: ignora pulsos separados por menos de 1000 us (1 ms)
+  if (ahora - ultimoTiempoISR > 1000) {
+    interrupciones++;
+    ultimoTiempoISR = ahora;
+  }
+}
+
+void setup() {
+  Serial.begin(115200); // Cambia el Monitor Serie a 115200 baudios
+  pinMode(pinDO, INPUT);
+  attachInterrupt(digitalPinToInterrupt(pinDO), contar, RISING);
+}
+
+void loop() {
+  unsigned long actual = micros();
+
+  // Muestreo cada 5000 us (5 ms = 200 muestras/segundo)
+  if (actual - tiempoPrevio >= 5000) {
+    tiempoPrevio = actual;
+
+    // Lectura segura de la variable de interrupción
+    noInterrupts();
+    unsigned long conteoActual = interrupciones;
+    interrupts();
+
+    int nivelADC = analogRead(pinAO);
+    bool huboCambio = (conteoActual != conteoAnterior);
+    conteoAnterior = conteoActual;
+
+    Serial.print("Int:");
+    Serial.print(conteoActual);
+    Serial.print(" | ADC:");
+    Serial.print(nivelADC);
+    Serial.print(" | Cambio:");
+    Serial.println(huboCambio ? "SI" : "NO");
+  }
+}
 
 
